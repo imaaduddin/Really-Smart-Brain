@@ -1,0 +1,1 @@
+from imageai.Prediction  import ImagePrediction
